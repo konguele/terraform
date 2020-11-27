@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Docker",
+			"path": "..\\Docker"
+		},
+		{
+			"name": "Vagrant",
+			"path": "..\\Vagrant"
+		},
+		{
+			"name": "unity_games",
+			"path": "..\\unity_games"
+		},
+		{
+			"name": "ansible_codes",
+			"path": "..\\ansible_codes"
+		},
+		{
+			"name": "TrueLayer-1",
+			"path": "..\\TrueLayer-1"
+		}
+	]
+}
